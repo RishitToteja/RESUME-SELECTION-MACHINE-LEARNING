@@ -5,6 +5,7 @@ The results of the model were as follows:
 2) Accuracy (Test Dataet) : 84.0 %
 3) Precision Score : 0.87
 4) Recall Score : 0.84
+
 Application: This project can be used for screening/shortlisting resumes in  Univerities / Colleges / Companies / Schools.
 
 ![alt text](https://fitsmallbusiness.com/wp-content/uploads/2020/08/FeatureImage_Resume_Screening.jpg)
